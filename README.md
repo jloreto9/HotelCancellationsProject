@@ -11,8 +11,7 @@ Tecnologías utilizadas:
 - NumPy
 - Scikit-learn
 - XGBoost
-- Flask
-- Streamlit
+- SHAP
   
 Metodología:
 
